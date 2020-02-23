@@ -2,10 +2,6 @@
 
 Using the MERN stack to create an Exercise Tracker
 
-# ChatApp
-
-Real Time Chat Application using React, NodeJS and Socket.io
-
 **How to run**
 
 Installation:
