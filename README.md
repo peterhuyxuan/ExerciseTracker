@@ -1,6 +1,6 @@
 # ExerciseTracker
 
-Using the MERN stack to create an Exercise Tracker
+Creating an Exercise Tracker
 
 **How to run**
 
